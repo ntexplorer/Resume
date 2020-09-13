@@ -244,9 +244,17 @@ mark {
 
   #nav-m svg {
     width: 28px;
-    height: 28px; }
+    height: 28px;
+  }
 
   aside {
-    display: none; } }
+    display: none;
+  }
+}
 
 /*# sourceMappingURL=index.css.map */
+
+/* 教育经历空行 */
+.edu li {
+  margin-bottom: 20px;
+}
